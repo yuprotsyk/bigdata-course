@@ -4,3 +4,5 @@
 **Додаткові матеріали:**
 * [Додаток А: Розподілена файлова система Hadoop (HDFS)](notebooks/topic01_extra_hdfs.ipynb)
 * [Додаток Б: Керування ресурсами (YARN) та парадигма MapReduce](notebooks/topic01_extra_yarn_mapreduce.ipynb)
+
+### 2. [Основи RDD: Низькорівневе керування даними та обчисленнями в Apache Spark](notebooks/topic02_rdd.ipynb)
