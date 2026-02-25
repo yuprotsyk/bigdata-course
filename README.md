@@ -6,3 +6,5 @@
 * [Додаток Б: Керування ресурсами (YARN) та парадигма MapReduce](notebooks/topic01_extra_yarn_mapreduce.ipynb)
 
 ### 2. [Основи RDD: Низькорівневе керування даними та обчисленнями в Apache Spark](notebooks/topic02_rdd.ipynb)
+
+### 3. [DataFrame API та Spark SQL: Ефективна обробка даних в Apache Spark](notebooks/topic03_dataframe_sql.ipynb)
