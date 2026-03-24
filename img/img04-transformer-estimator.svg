@@ -18,8 +18,6 @@
   <text x="88"  y="174" text-anchor="middle" font-size="11" fill="#374151">Tokenizer</text>
   <rect x="132" y="158" width="106" height="24" rx="6" fill="white" stroke="#ccc" stroke-width="1"/>
   <text x="185" y="174" text-anchor="middle" font-size="11" fill="#374151">VectorAssembler</text>
-  <rect x="244" y="158" width="94"  height="24" rx="6" fill="white" stroke="#ccc" stroke-width="1"/>
-  <text x="291" y="174" text-anchor="middle" font-size="11" fill="#374151">StandardScaler</text>
   <rect x="50"  y="188" width="68"  height="24" rx="6" fill="white" stroke="#ccc" stroke-width="1"/>
   <text x="84"  y="204" text-anchor="middle" font-size="11" fill="#374151">HashingTF</text>
   <rect x="124" y="188" width="130" height="24" rx="6" fill="white" stroke="#ccc" stroke-width="1"/>
