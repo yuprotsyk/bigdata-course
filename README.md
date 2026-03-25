@@ -8,3 +8,5 @@
 ### 2. [Основи RDD: Низькорівневе керування даними та обчисленнями в Apache Spark](notebooks/topic02_rdd.ipynb)
 
 ### 3. [DataFrame API та Spark SQL: Ефективна обробка даних в Apache Spark](notebooks/topic03_dataframe_sql.ipynb)
+
+### 4. [Побудова масштабованих ML-систем у Spark ML](notebooks/topic04_spark_ml.ipynb)
