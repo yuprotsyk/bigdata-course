@@ -10,3 +10,5 @@
 ### 3. [DataFrame API та Spark SQL: Ефективна обробка даних в Apache Spark](notebooks/topic03_dataframe_sql.ipynb)
 
 ### 4. [Побудова масштабованих ML-систем у Spark ML](notebooks/topic04_spark_ml.ipynb)
+
+### 5. [Налаштування та експлуатація моделей](notebooks/topic05_spark_ml_extend.ipynb)
